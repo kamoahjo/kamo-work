@@ -1,2 +1,1 @@
-# kamo-work
-First repository
+
